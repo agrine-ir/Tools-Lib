@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tools.Reporter", "Agrine.Tools.Reporter\Agrine.Tools.Reporter.vcxproj", "{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tool.Reporter", "Agrine.Tool.Reporter\Agrine.Tool.Reporter.vcxproj", "{38F56FCF-53CA-2A3C-4865-4A0DCC491886}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tool.Converter", "Agrine.Tool.Converter\Agrine.Tool.Converter.vcxproj", "{2DEB0DCF-45CA-4D26-B032-8A700559A27D}"
@@ -19,18 +17,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|Any CPU.Build.0 = Debug|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|x64.ActiveCfg = Debug|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|x64.Build.0 = Debug|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|x86.ActiveCfg = Debug|Win32
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Debug|x86.Build.0 = Debug|Win32
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|Any CPU.ActiveCfg = Release|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|Any CPU.Build.0 = Release|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|x64.ActiveCfg = Release|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|x64.Build.0 = Release|x64
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|x86.ActiveCfg = Release|Win32
-		{594A7023-C4BE-5DAD-39B4-7CF3BD3FA8E8}.Release|x86.Build.0 = Release|Win32
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Debug|Any CPU.Build.0 = Debug|x64
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Debug|x64.ActiveCfg = Debug|x64
