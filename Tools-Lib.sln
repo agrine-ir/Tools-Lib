@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tools.Reporter", "Ag
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tool.Reporter", "Agrine.Tool.Reporter\Agrine.Tool.Reporter.vcxproj", "{38F56FCF-53CA-2A3C-4865-4A0DCC491886}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Tool.Converter", "Agrine.Tool.Converter\Agrine.Tool.Converter.vcxproj", "{2DEB0DCF-45CA-4D26-B032-8A700559A27D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Release|x64.Build.0 = Release|x64
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Release|x86.ActiveCfg = Release|Win32
 		{38F56FCF-53CA-2A3C-4865-4A0DCC491886}.Release|x86.Build.0 = Release|Win32
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|Any CPU.Build.0 = Debug|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|x64.ActiveCfg = Debug|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|x64.Build.0 = Debug|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Debug|x86.Build.0 = Debug|Win32
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|Any CPU.ActiveCfg = Release|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|Any CPU.Build.0 = Release|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|x64.ActiveCfg = Release|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|x64.Build.0 = Release|x64
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|x86.ActiveCfg = Release|Win32
+		{2DEB0DCF-45CA-4D26-B032-8A700559A27D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
